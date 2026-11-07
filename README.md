@@ -61,7 +61,6 @@ Through this project, I developed and practiced the following skills:
 - Using IBM Cognos Analytics to create multiple dashboard visualizations.
 Project Files
 - README.md – Project overview, tools, and documentation.
-- Dashboard/ – Exported Cognos dashboard PDF.
 - Screenshots/ – Images of completed dashboard visualizations.
 Project Screenshots
 Screenshots of the completed dashboards will be included here to demonstrate the visualizations and dashboard layout.
